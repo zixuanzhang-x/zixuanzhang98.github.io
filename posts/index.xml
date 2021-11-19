@@ -1,4 +1,14 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>All Posts - ZiXuan｜子轩</title><link>http://example.org/posts/</link><description>All Posts | ZiXuan｜子轩</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>zixuanzhang.x@gmail.com (Zixuan Zhang)</managingEditor><webMaster>zixuanzhang.x@gmail.com (Zixuan Zhang)</webMaster><lastBuildDate>Wed, 17 Nov 2021 13:03:20 -0500</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml"/><item><title>What Does It Mean to Be a Passionate Engineer?</title><link>http://example.org/posts/passion/</link><pubDate>Wed, 17 Nov 2021 13:03:20 -0500</pubDate><author>Author</author><guid>http://example.org/posts/passion/</guid><description><![CDATA[Let&rsquo;s Be Honest Although every engineer claims to be passionate and lifelong learners, few of them really are.
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>All Posts - ZiXuan｜子轩</title><link>http://example.org/posts/</link><description>All Posts | ZiXuan｜子轩</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>zixuanzhang.x@gmail.com (Zixuan Zhang)</managingEditor><webMaster>zixuanzhang.x@gmail.com (Zixuan Zhang)</webMaster><lastBuildDate>Thu, 18 Nov 2021 22:29:04 -0500</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml"/><item><title>My Favorite Quotes!</title><link>http://example.org/posts/quotes/</link><pubDate>Thu, 18 Nov 2021 22:29:04 -0500</pubDate><author>Author</author><guid>http://example.org/posts/quotes/</guid><description><![CDATA[&ldquo;My sword I leave to him who can wear it.&rdquo;
+&ndash; Charlie Munger
+  &ldquo;Learn something new every day. Some days this is easy; some days, you have to claw for it. Do it anyway. To learn is to grow.&rdquo;
+&ndash; Mark Heckler (Project Reactor Contributor)
+  &ldquo;板凳要坐十年冷，文章不写半句空。&rdquo;
+&ndash; 韩儒林
+  &ldquo;The greatest teacher, failure is.&rdquo;
+&ndash; Master Yoda
+  &ldquo;让无力者有力，让悲观者前行。&rdquo;
+&ndash; 《南方周末》 (江艺平)
+  &ldquo;A man’s character is not judged after he celebrates a victory, but by what he does when his back is against the wall.]]></description></item><item><title>What Does It Mean to Be a Passionate Engineer?</title><link>http://example.org/posts/passion/</link><pubDate>Wed, 17 Nov 2021 13:03:20 -0500</pubDate><author>Author</author><guid>http://example.org/posts/passion/</guid><description><![CDATA[Let&rsquo;s Be Honest Although every engineer claims to be passionate and lifelong learners, few of them really are.
 What Is Passion? What is passion? It&rsquo;s not something we only talk about during interviews or presentations. Instead, it&rsquo;s something we do, some choices we make, and some paths we take.
 More specifically, it&rsquo;s about:
   still searching for a better solution even when you already have a suboptimal one that works for now.]]></description></item></channel></rss>
